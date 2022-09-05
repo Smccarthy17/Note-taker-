@@ -35,11 +35,13 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 Susan, Jackson, Chris P., Sarah, Aaron, Ricky
 
+## Links
+
 Deployed: https://vast-shore-15860.herokuapp.com/notes
 
 Repo: https://github.com/Smccarthy17/Note-taker-
 
-Screenshots:
+## Screenshots:
 
 ![](/public/assets/images/notetaker1.png)
 
