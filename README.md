@@ -1,11 +1,13 @@
 ## About
-This is a simple note taker app for keeping track of your todo list. 
+
+This is a simple note taker app for keeping track of your todo list.
 
 ## Built with:
+
 Node.js
 Express.js
 Insomnia
-Heroku 
+Heroku
 
 ## User Story
 
@@ -29,14 +31,16 @@ THEN that note appears in the right-hand column
 WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
-## Study group:   
+## Study group:
+
 Susan, Jackson, Chris P., Sarah, Aaron, Ricky
 
+Deployed: https://vast-shore-15860.herokuapp.com/notes
 
-Deployed:
+Repo: https://github.com/Smccarthy17/Note-taker-
 
+Screenshots:
 
-Repo: 
+![](/public/assets/images/notetaker1.png)
 
-Screenshot:
-
+![](/public/assets/images/notetaker2.png)
