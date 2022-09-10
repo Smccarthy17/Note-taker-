@@ -39,7 +39,7 @@ Susan, Jackson, Chris P., Sarah, Aaron, Ricky
 
 Deployed: https://vast-shore-15860.herokuapp.com/notes
 
-Repo: https://github.com/Smccarthy17/Note-taker-
+Repo: https://github.com/Smccarthy17/Note-taker-.git
 
 ## Screenshots:
 
